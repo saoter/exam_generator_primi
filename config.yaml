@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    bala:
+      email: bala@business.aau.dk
+      name: Parasuram Balasubramanian
+      password: $2b$12$PzrgVU/KSwaMpIojXhoBROEZJRlF4AJqQWhyNPqxhrOVZN68GAmTG # To be replaced with hashed password
+    primoz:
+      email: pk@business.aau.dk
+      name: Primoz Konda
+      password: $2b$12$PzrgVU/KSwaMpIojXhoBROEZJRlF4AJqQWhyNPqxhrOVZN68GAmTG # To be replaced with hashed password
+    louise:
+      email: 
+      name: Louise
+      password: $2b$12$PzrgVU/KSwaMpIojXhoBROEZJRlF4AJqQWhyNPqxhrOVZN68GAmTG # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - pk@business.aau.dk
