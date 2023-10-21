@@ -109,7 +109,7 @@ def app_logic():
                 st.warning("Student seed must be an integer.")
     
     # Space between buttons
-    for _ in range(7):
+    for _ in range(4):
         st.sidebar.text("")
 
 
